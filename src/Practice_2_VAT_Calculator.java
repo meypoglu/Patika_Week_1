@@ -7,6 +7,6 @@ public class Practice_2_VAT_Calculator {
         double money = input.nextDouble();
         double vat = money > 999 ? 0.08d : 0.18d;
         System.out.println("KDV'li tutar: " + (money + money * vat));
-        System.out.println("KDV tutarı: " + vat);
+        System.out.println("KDV'nin tutarı: " + vat);
     }
 }
