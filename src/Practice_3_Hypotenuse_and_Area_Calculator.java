@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Practice_3_1_Hypotenuse_and_Area_Calculator {
+public class Practice_3_Hypotenuse_and_Area_Calculator {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Üçgenin İki Kenarını Giriniz: ");
