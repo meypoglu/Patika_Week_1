@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Practice_4_Taximeter {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.println("Gidilen mesafeyi giriniz: ");
+        System.out.print("Gidilen mesafeyi giriniz: ");
         double dist = input.nextDouble();
 
         double priceKm = 2.20d;
